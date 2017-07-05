@@ -8,4 +8,4 @@ Here is my wish list on [Amazon](https://www.amazon.co.uk/gp/registry/wishlist/1
 - [x] I have read the book
 
 ## Physics, Population
-- [ ] [**The essential exponential : for the future of our planet**](https://www.worldcat.org/search?qt=wikipedia&q=isbn%3A0975897306) by A. A. Bartlett
+- [ ] [**The essential exponential : for the future of our planet**](https://www.worldcat.org/search?qt=wikipedia&q=isbn%3A0975897306) by [Albert Allen Bartlett](https://en.wikipedia.org/wiki/Albert_Allen_Bartlett)

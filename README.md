@@ -10,6 +10,9 @@ Here is my wish list on [Amazon](https://www.amazon.co.uk/gp/registry/wishlist/1
 ◕ About to finish reading  
 - [x] I have read the book
 
+## Psychology
+◑ [**Grit : the power of passion and perseverance**](https://www.amazon.co.uk/Grit-Passion-Perseverance-Angela-Duckworth-ebook/dp/B019CGY2ZG/ref=sr_1_2?ie=UTF8&qid=1499850959&sr=8-2&keywords=Grit+%3A+the+power+of+passion+and+perseverance) by [Angela Duckworth](https://en.wikipedia.org/wiki/Angela_Duckworth)
+
 ## Population
 - [ ] [**The essential exponential : for the future of our planet**](https://www.worldcat.org/search?qt=wikipedia&q=isbn%3A0975897306) by [Albert Allen Bartlett](https://en.wikipedia.org/wiki/Albert_Allen_Bartlett)
 

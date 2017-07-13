@@ -17,6 +17,9 @@ Here is my wish list on [Amazon](https://www.amazon.co.uk/gp/registry/wishlist/1
 - [ ] [**The essential exponential : for the future of our planet**](https://www.worldcat.org/search?qt=wikipedia&q=isbn%3A0975897306) by [Albert Allen Bartlett](https://en.wikipedia.org/wiki/Albert_Allen_Bartlett)  
 At the moment I am trying to get a copy of this book. 
 
+## Computer Science
+◔ [**Smalltalk Best Practice Patterns**](https://www.amazon.co.uk/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1499933390&sr=8-1) by [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck)
+
 ## Physics
 - [ ] [**Classical mechanics : the theoretical minimum**](https://www.amazon.co.uk/Classical-Mechanics-Theoretical-Minimum/dp/0141976225) by [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind)
 

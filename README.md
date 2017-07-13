@@ -14,7 +14,8 @@ Here is my wish list on [Amazon](https://www.amazon.co.uk/gp/registry/wishlist/1
 ◑ [**Grit : the power of passion and perseverance**](https://www.amazon.co.uk/Grit-Passion-Perseverance-Angela-Duckworth-ebook/dp/B019CGY2ZG/ref=sr_1_2?ie=UTF8&qid=1499850959&sr=8-2&keywords=Grit+%3A+the+power+of+passion+and+perseverance) by [Angela Duckworth](https://en.wikipedia.org/wiki/Angela_Duckworth)
 
 ## Population
-- [ ] [**The essential exponential : for the future of our planet**](https://www.worldcat.org/search?qt=wikipedia&q=isbn%3A0975897306) by [Albert Allen Bartlett](https://en.wikipedia.org/wiki/Albert_Allen_Bartlett)
+- [ ] [**The essential exponential : for the future of our planet**](https://www.worldcat.org/search?qt=wikipedia&q=isbn%3A0975897306) by [Albert Allen Bartlett](https://en.wikipedia.org/wiki/Albert_Allen_Bartlett)  
+At the moment I am trying to get a copy of this book. 
 
 ## Physics
 - [ ] [**Classical mechanics : the theoretical minimum**](https://www.amazon.co.uk/Classical-Mechanics-Theoretical-Minimum/dp/0141976225) by [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind)

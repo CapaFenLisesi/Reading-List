@@ -16,8 +16,13 @@ Note: books are grouped according to the [Library of Congress Classification Cla
 ◑ [**Grit : the power of passion and perseverance**](https://www.amazon.co.uk/Grit-Passion-Perseverance-Angela-Duckworth-ebook/dp/B019CGY2ZG/ref=sr_1_2?ie=UTF8&qid=1499850959&sr=8-2&keywords=Grit+%3A+the+power+of+passion+and+perseverance) by [Angela Duckworth](https://en.wikipedia.org/wiki/Angela_Duckworth)
 
 ## Business
-◔ [**Hooked : how to build habit-forming products**](https://www.amazon.co.uk/Hooked-How-Build-Habit-Forming-Products/dp/0241184835/ref=sr_1_1?ie=UTF8&qid=1500030569&sr=8-1&keywords=9780241184837) by [Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal)  
-Just started reading, but by the look of it, it may be quite a good book.
+◑ [**Hooked : how to build habit-forming products**](https://www.amazon.co.uk/Hooked-How-Build-Habit-Forming-Products/dp/0241184835/ref=sr_1_1?ie=UTF8&qid=1500030569&sr=8-1&keywords=9780241184837) by [Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal)  
+  Just started reading, but by the look of it, it may be quite a good book.  
+  The Hook Model: 
+  - Trigger
+  - Action
+  - Variable Reward
+  - Investment
 
 ## Population
 - [ ] [**The essential exponential : for the future of our planet**](https://www.worldcat.org/search?qt=wikipedia&q=isbn%3A0975897306) by [Albert Allen Bartlett](https://en.wikipedia.org/wiki/Albert_Allen_Bartlett)  

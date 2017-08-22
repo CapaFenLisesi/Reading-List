@@ -24,6 +24,8 @@ Note: books are grouped according to the [Library of Congress Classification Cla
   - Variable Reward
   - Investment
 
+◔ [**ReWork: Change the Way You Work Forever**](https://www.amazon.co.uk/ReWork-Change-Way-Work-Forever/dp/0091929784/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by [Jason Fried](https://medium.com/@jasonfried) and [David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson).
+
 ## Population
 - [ ] [**The essential exponential : for the future of our planet**](https://www.worldcat.org/search?qt=wikipedia&q=isbn%3A0975897306) by [Albert Allen Bartlett](https://en.wikipedia.org/wiki/Albert_Allen_Bartlett)  
 At the moment I am trying to get a copy of this book. 
